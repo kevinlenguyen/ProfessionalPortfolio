@@ -1,4 +1,4 @@
-# ProfessionalPortfolio
+# Professional Portfolio
 My name is Kevin Nguyen and this is my portfolio of assignments and projects that demonstrate my critical thinking and technical skills as an undergraduate Mechanical Engineering student at the University of Washington.
 
 ## Mechanics of Materials Formal Lab Reports 
