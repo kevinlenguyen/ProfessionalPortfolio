@@ -4,7 +4,7 @@ My name is Kevin Nguyen and this is my portfolio of assignments and projects tha
 ## Mechanics of Materials Formal Lab Reports 
 This folder includes 2 formal lab reports on torsion and digital image correlation. These lab reports demonstrate my ability to analyze and compare experimental data to theoretical values, formulate arguments based on measurement statistics and data, evaluate sources of error, and overall create professional level scientific papers.
 
-## Solidworks
+## SolidWorks
 This folder is for my final project for ME123: Visualization & CAD. My final project was a marble machine complete with part files, an assembly file, an exploded view drawing, a detailed drawing, an image in PhotoView360, and a motion test. This project demonstrates my mastery of basic skills in SolidWorks such as creating parts, assembling parts and utilizing mates, and generating product deliverables.
 
 ## Technical Writing
