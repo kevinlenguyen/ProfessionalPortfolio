@@ -14,7 +14,7 @@ This folder includes 2 formal lab reports on torsion and digital image correlati
 ## Programming and 3D Printing
 This folder includes my final project for ME480:Computer-aided Technology. My tasks were to: 1) Write python code to 3D print a motor mount, coupler, and Lego Technic pieces to design and build a one-handed "clock" where the motor shaft is parallel to the floor and the stepper motor can rotate a "hand" in a full circle and 2) Connect the stepper motor to a Metro M0 and write a CircuitPython program that makes the "clock" act as a stopwatch, rotating smoothly through a full circle once per minute.
 
-Aside from my final project, there are video clips of other things I have worked with such as: servo motors, brushless motors, a simple linear drive system, etc.
+Aside from my final project, there are video clips of other things I have worked with such as: servo motors, brushless motors, a simple linear drive system, etc. I also included a 3D print of myself for the fun of it. 
 
 Skills I gained from this course: Python programming fluency, CircuitPython familiarity, working with embedded systems, 3D printing competency.
 
